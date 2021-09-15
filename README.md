@@ -1,5 +1,5 @@
-# back_to_china_pac
-PAC config files for connecting back to China
+# PAC config files for connecting back to China
+Supported apps:
 - Shadowrocket
 - electron-ssr
 - ShadowsocksX-NG-R
