@@ -1,4 +1,4 @@
-# PAC config files for connecting back to China using SSR
+# PAC config files for VPN back to China using SSR
 Supported apps:
 - Shadowrocket
 - electron-ssr
